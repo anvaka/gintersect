@@ -16,5 +16,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/gintersect"
+  },
+  "devDependencies": {
+    "tap": "^0.4.13"
   }
 }
