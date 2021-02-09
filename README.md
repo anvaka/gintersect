@@ -4,7 +4,11 @@ Finds intersection between two lines. This is JavaScript adaptation of Mukesh
 Prasad's work from [Grapchis Gem II](http://www.opensource.apple.com/source/graphviz/graphviz-498/graphviz/dynagraph/common/xlines.c)
 book. It is supposed to be very fast.
 
+See also https://github.com/anvaka/isect a library that finds intersections in
+a given set of segments
+
 [![Build Status](https://travis-ci.org/anvaka/gintersect.svg)](https://travis-ci.org/anvaka/gintersect)
+
 # usage
 
 ``` javascript
