@@ -4,7 +4,7 @@
   "description": "Finds intersection between two lines",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tap --branches=70 --lines=70 --statements=70 --functions=70 test/*.js"
   },
   "keywords": [
     "geometry",
@@ -18,6 +18,6 @@
     "url": "https://github.com/anvaka/gintersect"
   },
   "devDependencies": {
-    "tap": "^0.4.13"
+    "tap": "^16.0.1"
   }
 }
